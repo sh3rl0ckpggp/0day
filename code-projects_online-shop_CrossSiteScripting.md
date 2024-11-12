@@ -3,7 +3,7 @@ Vulnerability Advisory: XSS Vulnerabilities in Lifestyle Store Web Application
 - **Software Link**: [Download Link](https://code-projects.org/online-shop-store-in-php-with-source-code/)
 - **Vendor Homepage**: [Vendor Homepage](https://code-projects.org/)
 - **Bug**: Cross Site Scripting Reflected (XSS)
-- **Author"" : sh3rl0ckpgp
+- **Author** : sh3rl0ckpgp
 
 ## About project:
 The online shop store In PHP is a simple project developed using PHP, JavaScript, and CSS. The project contains only the end-user sides. The users can go through the store without logging in but have to log in to the system form adding the items to the cart and buy the items.
