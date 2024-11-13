@@ -1,1 +1,1 @@
-# 0day
+# This repository is dedicated to documenting CVE requests and security advisories for various projects that have undergone penetration testing and vulnerability analysis. It serves as a reference point for project maintainers, developers, and security teams to understand identified security issues, their impacts, and recommended mitigations.
